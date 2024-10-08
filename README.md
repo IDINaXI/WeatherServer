@@ -112,3 +112,10 @@ API documentation is available at the following URL after the application is run
 ```
 http://localhost:8080/swagger-ui/index.html
 ```
+
+## Development Time
+
+Design - 20 minutes 
+Development - 4 hours
+Testing - 30 minutes
+Documentation - 1 hour
