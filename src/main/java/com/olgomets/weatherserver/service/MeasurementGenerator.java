@@ -1,7 +1,11 @@
 package com.olgomets.weatherserver.service;
 
+import com.olgomets.weatherserver.model.Sensor;
+
 public interface MeasurementGenerator {
 
-    public void sendGeneratedMeasurement();
+    void sendGeneratedMeasurement();
+
+    void generateMeasurements(Sensor sensor, String serverUrl);
 
 }
