@@ -10,6 +10,7 @@ This project is an API for managing sensors and measurements in a weather monito
 - [Running the Application](#running-the-application)
 - [API Endpoints](#api-endpoints)
 - [API Documentation](#api-documentation)
+- [Development Time](#development-time)
 
 # Description
 
