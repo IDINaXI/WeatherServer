@@ -118,7 +118,7 @@ http://localhost:8080/swagger-ui/index.html
 
 Design - 20 minutes
 
-Development - 4 hours
+Development - 5 hours
 
 Testing - 30 minutes
 
